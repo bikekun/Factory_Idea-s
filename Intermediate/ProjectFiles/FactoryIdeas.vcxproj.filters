@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FactoryIdeas.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D1A94439-C1A4-4B87-ABC2-05F368983B2B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FactoryIdeas.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FactoryIdeasEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{136C9B63-8938-49B3-A16C-900DCC9E862F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FactoryIdeas">
+			<UniqueIdentifier>{A280229F-1C72-422B-959F-EBC7163829D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FactoryIdeas\FactoryIdeas.Build.cs">
+			<Filter>Source\FactoryIdeas</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FactoryIdeas\FactoryIdeas.cpp">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FactoryIdeas\FactoryIdeas.h">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FactoryIdeas\FactoryIdeasCharacter.cpp">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FactoryIdeas\FactoryIdeasCharacter.h">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FactoryIdeas\FactoryIdeasGameMode.cpp">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FactoryIdeas\FactoryIdeasGameMode.h">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FactoryIdeas\FactoryIdeasHUD.cpp">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FactoryIdeas\FactoryIdeasHUD.h">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FactoryIdeas\FactoryIdeasProjectile.cpp">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FactoryIdeas\FactoryIdeasProjectile.h">
+			<Filter>Source\FactoryIdeas</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
